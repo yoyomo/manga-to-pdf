@@ -22,7 +22,7 @@ The name of the first folder will be used for all pdf (you may change the name t
 and the last number found in each volume's name will be used to identify each pdf.
 More importantly, pages should be ordered by name. Although that depends on how it was scanned.
 
-###Tools
+### Tools
 
 1. `ruby`
 2. `rmagick` gem (which itself requires imagemagick)
