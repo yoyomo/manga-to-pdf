@@ -1,4 +1,4 @@
-# manga-to-pdf
+# Manga to pdf
 Ruby code to compress jpg folders to pdf by volumes
 
 ## Prerequisites
@@ -31,7 +31,7 @@ More importantly, pages should be ordered by name. Although that depends on how 
 ## How to use
 run 
 ```
-ruby manga-to-pdf.rb path_of_book
+ruby manga_to_pdf.rb path_of_book
 ```
 in your command line.
 
