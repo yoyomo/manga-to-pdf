@@ -25,7 +25,7 @@ More importantly, pages should be ordered by name. Although that depends on how 
 ### Tools
 
 1. `ruby`
-2. `rmagick` gem (which itself requires imagemagick)
+2. `rmagick` gem (which itself requires imagemagick@6)
 3. `fileutils` gem (in case it is not installed)
 
 ## How to use
