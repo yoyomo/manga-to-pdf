@@ -35,7 +35,7 @@ ruby manga-to-pdf.rb path_of_book
 ```
 in your command line.
 
-##Note:
+## Note:
 As a second argument, you can pass a truthy value in ruby (e.g. `1`) 
 and it will delete each volume folder after it compresses it to pdf.
 To save disk space this will remove it permanently , so it won't be 
