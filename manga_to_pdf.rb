@@ -25,6 +25,11 @@ def manga_to_pdf(folder_path,delete_folder=false)
 
 end
 
+if ARGV.length == 0
+  puts "Usage: ruby manga_to_pdf.rb FOLDER_PATH [DELETE_FOLDER]"
+  return 
+end
+
 folder_path = ARGV[0]
 delete_folder = ARGV[1]
 manga_to_pdf(folder_path,delete_folder)

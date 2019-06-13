@@ -1,0 +1,12 @@
+GEM
+  specs:
+    rmagick (3.1.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  rmagick
+
+BUNDLED WITH
+   2.0.1
